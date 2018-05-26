@@ -1,6 +1,7 @@
 /* Version: Git
  * User: Geng.Chen
  * Date: 2018.05.26
+ * Region: Hubei.China
  */
 Notepad++ v7.5.6 enhancements & bug-fixes:
 
@@ -38,5 +39,9 @@ Included plugins:
 
 
 Updater (Installer only):
+
+For some tests:
+1.  Add some version info.
+2.  Add some region info.
 
 * WinGup v4.2
