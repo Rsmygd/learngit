@@ -1,0 +1,19 @@
+diff --git a/change.log b/change.log
+index d77dacd..8f4aeb4 100644
+--- a/change.log
++++ b/change.log
+@@ -2,6 +2,7 @@
+  * User: Geng.Chen
+  * Date: 2018.05.26
+  * Region: Hubei.China
++ * Direction: Free 
+  */
+ Notepad++ v7.5.6 enhancements & bug-fixes:
+ 
+@@ -43,5 +44,6 @@ Updater (Installer only):
+ For some tests:
+ 1.  Add some version info.
+ 2.  Add some region info.
++3.  Add some direction info.
+ 
+ * WinGup v4.2
