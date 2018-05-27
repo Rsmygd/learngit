@@ -10,4 +10,4 @@ For some tests:
 2.  Add some region info.
 3.  Add some direction info.
 4.  Test the conflict.
-
+5.  Save the diff in master when you git merge
